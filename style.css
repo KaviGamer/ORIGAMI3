@@ -1,0 +1,63 @@
+body {
+margin: 0px;
+background-color: #f7f2f2;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+.origami{
+    border-radius: 2px;
+    background-color: #ffffff;
+    padding: 500px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+
+.origami2{
+    border-radius: 2px;
+    background-color: #ffffff;
+    padding: 500px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+
+
+.camel{
+    border: solid;
+    color: rgb(252, 113, 0);
+}
+
+.chameleon{
+    border: solid;
+    color: rgb(252, 113, 0);
+}
+
+.cicada{
+    border: solid;
+    color: rgb(252, 113, 0);
+}
+
+.panda{
+    border: solid;
+    color: rgb(252, 113, 0);
+}
+
+.pigeon{
+    border: solid;
+    color: rgb(252, 113, 0);
+}
+
+.teddy{
+    border: solid;
+    color: rgb(252, 113, 0);
+}
